@@ -1,2 +1,2 @@
-# HTML-coding-Programs
+# HTML-Programs
 ShraddhaDidi Lectures
